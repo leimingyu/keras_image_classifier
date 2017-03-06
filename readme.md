@@ -1,3 +1,13 @@
+## Author
+
+Leiming Yu
+
+* Email: ylm@ece.neu.edu
+* Twitter: @yu_leiming
+* Blog: http://www1.coe.neu.edu/~ylm/
+
+
+
 #### Configure env in anaconda
 ```
 conda create --name keras_lab python=3.5
